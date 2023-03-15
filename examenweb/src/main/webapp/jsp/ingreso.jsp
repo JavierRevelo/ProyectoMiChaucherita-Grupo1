@@ -68,7 +68,7 @@
                     </select>
                     <br><br><br>
 
-                    <input type="submit" value="Guardar" class="btnPantalla">
+                    <input type="submit" value="Submit" class="btnPantalla">
                    
                 </form>
             </div>
